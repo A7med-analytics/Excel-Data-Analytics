@@ -96,4 +96,127 @@ Excel Charts
 
 <p>
 <img src="https://img.shields.io/badge/Power_Query-0F6B3E?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
-<img src="https://img.shields
+<img src="https://img.shields.io/badge/Data_Cleaning-388E3C?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Transformation-2E7D32?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
+<img src="https://img.shields.io/badge/ETL_Workflows-1D6F42?style=for-the-badge&logo=apacheairflow&logoColor=white">
+</p>
+
+### 🗄️ Data Modeling & Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Modeling-2E7D32?style=for-the-badge&logo=databricks&logoColor=white">
+</p>
+
+### 📊 Business Intelligence & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Excel_Dashboards-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/KPI_Reporting-1D6F42?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Visualization-107C41?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Business_Reporting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
+
+---
+
+## 📚 Key Learning Areas
+
+| Area | Practical Skills |
+|---|---|
+| Data Cleaning | Removing Duplicates, Handling Missing Values, Data Standardization |
+| Data Transformation | Power Query, ETL Workflows, Data Preparation |
+| Excel Analysis | Excel Functions, Conditional Analysis, Logical Functions |
+| Data Aggregation | Pivot Tables, Grouping, Summarization |
+| Data Modeling | Power Pivot, Data Relationships, Data Models |
+| Business Intelligence | KPI Development, Performance Monitoring |
+| Data Visualization | Charts, Interactive Dashboards, Visual Reporting |
+| Business Analysis | HR Analytics, Salary Analysis, Business Insights |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/A7med-analytics/Excel-Data-Analytics.git
+
+cd Excel-Data-Analytics
+```
+
+### 2. Open the Project
+
+Navigate to the project folder and open the Excel workbook using Microsoft Excel.
+
+### 3. Explore the Analysis
+
+Review the worksheets, formulas, Pivot Tables, data models, and dashboards.
+
+### 4. Interact with the Dashboard
+
+Use available filters, slicers, and interactive elements to explore the data and discover business insights.
+
+---
+
+## 📁 Repository Structure
+
+```text
+Excel-Data-Analytics/
+│
+├── HR/
+│   └── Excel Project Files
+│
+└── README.md
+```
+
+*The repository structure will expand as additional projects and workbooks are added.*
+
+---
+
+## 🎯 Project Objectives
+
+- Apply practical Excel techniques to real-world datasets.
+- Build structured and reusable data preparation workflows.
+- Develop analytical reports and interactive dashboards.
+- Translate business data into meaningful KPIs.
+- Improve business understanding through data-driven analysis.
+
+---
+
+## 👨‍💻 About the Author
+
+<div align="center">
+
+### Ahmed Alaa
+
+**Data Analyst | Business Intelligence Specialist**
+
+Computer Science & Artificial Intelligence Student  
+Zagazig National University | Class of 2029
+
+Certified Data Analyst Specialist – Digital Egypt Pioneers Initiative (DEPI)
+
+<p>
+<a href="https://www.linkedin.com/in/a7med-alaa121206">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://ahmedalaa-analytics1.odoo.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="mailto:aa4666297@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you find this repository useful, consider giving it a star!**
+
+*Turning spreadsheets into insights, one project at a time.*
+
+</div>
