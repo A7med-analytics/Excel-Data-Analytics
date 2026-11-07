@@ -1,27 +1,31 @@
 <div align="center">
 
-# 📊 Excel Data Analytics Portfolio
+# 📊 Excel Data Analytics & Business Intelligence
 
-### Transforming Raw Data into Business Insights
+### Transforming Raw Data into Meaningful Business Insights
 
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/Power_Query-0F6B3E?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Power_Pivot-217346?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Analytics-1D6F42?style=for-the-badge&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Business_Intelligence-217346?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
 
 <p>
-A practical collection of Excel projects focused on data cleaning,
-business analysis, KPI reporting, and interactive dashboards.
+A collection of practical Excel projects focused on Data Analysis,
+Data Cleaning, Business Intelligence, KPI Reporting, and Interactive Dashboards.
 </p>
 
 <p>
 <a href="https://www.linkedin.com/in/a7med-alaa121206">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://ahmedalaa-analytics1.odoo.com">
-<img src="https://img.shields.io/badge/Portfolio-Explore-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="mailto:aa4666297@gmail.com">
+<img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://wa.me/201011913145">
+<img src="https://img.shields.io/static/v1?label=&message=WhatsApp&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </p>
 
@@ -31,127 +35,159 @@ business analysis, KPI reporting, and interactive dashboards.
 
 ## 📌 About This Repository
 
-Welcome to my **Excel Data Analytics Portfolio**.
+**Welcome to my Excel Data Analytics & Business Intelligence Portfolio.**
 
-This repository showcases practical projects demonstrating how Microsoft Excel can be used to transform raw datasets into meaningful business insights.
+This repository is dedicated to showcasing practical applications of Microsoft Excel in transforming raw datasets into meaningful business insights.
 
-The projects focus on data preparation, analytical techniques, KPI development, interactive reporting, and business intelligence.
+**Core Focus Areas:**
 
-My objective is to build analytical solutions that support data-driven decision-making through Excel.
+- **Data Cleaning & Transformation:** Power Query, Excel formulas, and data validation.
+- **Analysis & Modeling:** Analytical functions, Pivot Tables, Power Pivot, and KPI development.
+- **Visualization & Business Intelligence:** Interactive dashboards, dynamic reporting, and business performance analysis.
+
+**Objective:** Developing practical analytical solutions that bridge the gap between raw data and data-driven business decisions.
 
 ---
 
-## 📂 Projects & Workbooks
+## 📂 Projects & Case Studies
 
-A collection of practical Excel projects covering different business scenarios.
+This portfolio is currently under development. New projects and practical case studies will be published as they are completed.
+
+### 🔜 Upcoming Projects
 
 <table>
 <thead>
 <tr>
 <th>Project</th>
-<th>Tools & Techniques</th>
+<th>Technologies</th>
 <th>Business Focus</th>
-<th>Workbook</th>
+<th>Status</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td><b>📊 Project 01</b><br>HR & Salary Analysis</td>
-<td>Excel<br>Pivot Tables<br>Power Query</td>
+<td>👥 <b>HR Compensation & Salary Analysis</b></td>
+<td>Excel, Pivot Tables, Power Query</td>
 <td>HR Analytics & Compensation Insights</td>
-<td>Coming Soon</td>
+<td>🔜 Coming Soon</td>
 </tr>
 
 <tr>
-<td><b>📈 Project 02</b><br>Business KPI Dashboard</td>
-<td>Excel<br>Charts<br>Pivot Tables</td>
+<td>📈 <b>Business KPI Dashboard</b></td>
+<td>Excel, Charts, Pivot Tables</td>
 <td>Performance Monitoring & Reporting</td>
-<td>Coming Soon</td>
+<td>🔜 Coming Soon</td>
 </tr>
 
 <tr>
-<td><b>🔄 Project 03</b><br>Data Cleaning & ETL</td>
-<td>Power Query<br>Excel<br>Data Transformation</td>
+<td>🔄 <b>Data Cleaning & ETL</b></td>
+<td>Power Query, Excel</td>
 <td>Data Preparation & Automation</td>
-<td>Coming Soon</td>
+<td>🔜 Coming Soon</td>
+</tr>
+
+<tr>
+<td>📊 <b>Sales Performance Analysis</b></td>
+<td>Excel, Pivot Tables, Charts</td>
+<td>Sales Trends & Business Insights</td>
+<td>🔜 Coming Soon</td>
 </tr>
 
 </tbody>
 </table>
 
-*More projects and analytical case studies will be added as the portfolio grows.*
+*Each project will be published with its Excel workbook, analytical process, and dashboard previews once completed.*
 
 ---
 
 ## 🛠️ Tools & Technologies I Work With
 
-### 📗 Spreadsheet & Data Analysis
+### 💻 Spreadsheet & Data Management
 
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Pivot_Tables-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Power_Pivot-217346?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
+<img src="https://img.shields.io/badge/Excel_Formulas-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Excel_Functions-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </p>
 
-### 🔄 Data Preparation & Transformation
+### 🔄 Data Cleaning & Transformation
 
 <p>
 <img src="https://img.shields.io/badge/Power_Query-0F6B3E?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Cleaning-388E3C?style=for-the-badge&logo=databricks&logoColor=white">
-<img src="https://img.shields.io/badge/ETL_Workflows-2E7D32?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Transformation-2E7D32?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
+<img src="https://img.shields.io/badge/ETL_Workflows-1D6F42?style=for-the-badge&logo=apacheairflow&logoColor=white">
 </p>
 
-### 📊 Reporting & Visualization
+### 🗄️ Data Modeling & Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
+<img src="https://img.shields.io/badge/Data_Modeling-2E7D32?style=for-the-badge&logo=databricks&logoColor=white">
+</p>
+
+### 📊 Business Intelligence & Visualization
 
 <p>
 <img src="https://img.shields.io/badge/Excel_Dashboards-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/KPI_Reporting-1D6F42?style=for-the-badge&logo=googleanalytics&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Visualization-107C41?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Business_Reporting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </p>
 
 ---
 
-## 📚 Technical Skills
+## 📚 Key Learning Areas
 
-| Category | Skills & Techniques |
+| Area | Practical Skills |
 |---|---|
-| Data Cleaning | Removing Duplicates, Handling Missing Values, Standardization |
-| Data Transformation | Power Query, ETL Workflows |
-| Data Analysis | Excel Functions, Conditional Analysis |
-| Data Aggregation | Pivot Tables, Power Pivot |
-| Data Modeling | Data Relationships, Analytical Models |
-| Business Intelligence | KPI Development, Performance Analysis |
-| Data Visualization | Charts, Interactive Dashboards |
-| Reporting | Business Reports & Analytical Insights |
+| Data Cleaning | Removing Duplicates, Handling Missing Values, Data Standardization |
+| Data Transformation | Power Query, ETL Workflows, Data Preparation |
+| Excel Analysis | Excel Functions, Conditional Analysis, Logical Functions |
+| Data Aggregation | Pivot Tables, Grouping, Summarization |
+| Data Modeling | Power Pivot, Data Relationships, Data Models |
+| Business Intelligence | KPI Development, Performance Monitoring |
+| Data Visualization | Charts, Interactive Dashboards, Visual Reporting |
+| Business Analysis | Business Analysis, Performance Insights, Reporting |
 
 ---
 
-## 🚀 Repository Structure
+## 💡 Business Value & Objectives
+
+The goal of this portfolio is to demonstrate how Microsoft Excel can support business performance analysis and data-driven decision-making.
+
+**Key Objectives:**
+
+- **Data-Driven Decisions:** Transforming raw data into meaningful business insights.
+- **Performance Monitoring:** Developing KPIs to track business performance.
+- **Operational Efficiency:** Improving data preparation and reporting processes.
+- **Business Intelligence:** Identifying trends, patterns, and opportunities.
+- **Actionable Insights:** Presenting analytical findings through clear reports and interactive dashboards.
+
+---
+
+## 📁 Repository Structure
 
 ```text
 Excel-Data-Analytics/
 │
-├── HR-Salary-Analysis/
-│
-├── Excel-Dashboards/
-│
-├── Power-Query-Projects/
-│
 └── README.md
 ```
 
-*The folder structure will evolve as new projects are added.*
+*The repository structure will expand as new projects and workbooks are published.*
 
 ---
 
 ## 🎯 What You'll Find Here
 
-- Practical business analysis using Excel.
-- Interactive dashboards and KPI reporting.
-- Data cleaning and transformation workflows.
-- HR and compensation analytics.
-- Business-focused analytical solutions.
+- Practical Excel Data Analytics projects.
+- Data cleaning and transformation techniques.
+- Business analysis and KPI development.
+- Pivot Tables and Power Pivot applications.
+- Interactive dashboards and visual reporting.
+- Business Intelligence concepts and analytical insights.
 
 ---
 
@@ -166,17 +202,19 @@ Excel-Data-Analytics/
 Computer Science & Artificial Intelligence Student  
 Zagazig National University | Class of 2029
 
-Certified Data Analyst Specialist – Digital Egypt Pioneers Initiative (DEPI)
+Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+Digital Egypt Pioneers Initiative (DEPI) – Data Analysis Track
 
 <p>
 <a href="https://www.linkedin.com/in/a7med-alaa121206">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://ahmedalaa-analytics1.odoo.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-714B67?style=for-the-badge&logo=googlechrome&logoColor=white">
+<img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:aa4666297@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://wa.me/201011913145">
+<img src="https://img.shields.io/static/v1?label=&message=WhatsApp&color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </p>
 
