@@ -1,20 +1,19 @@
 <div align="center">
 
-# 📊 Excel Data Analytics & Business Intelligence
+# 📊 Excel Data Analytics Portfolio
 
-### Transforming Raw Data into Meaningful Business Insights
+### Transforming Raw Data into Business Insights
 
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/Power_Query-0F6B3E?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
-<img src="https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Pivot-217346?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Analytics-1D6F42?style=for-the-badge&logo=googleanalytics&logoColor=white">
-<img src="https://img.shields.io/badge/Business_Intelligence-217346?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
 
 <p>
-A collection of practical Excel projects exploring Data Analysis,
-Data Cleaning, Business Intelligence, KPI Reporting, and Interactive Dashboards.
+A practical collection of Excel projects focused on data cleaning,
+business analysis, KPI reporting, and interactive dashboards.
 </p>
 
 <p>
@@ -32,155 +31,127 @@ Data Cleaning, Business Intelligence, KPI Reporting, and Interactive Dashboards.
 
 ## 📌 About This Repository
 
-This repository showcases my practical experience in **Microsoft Excel for Data Analytics and Business Intelligence**.
+Welcome to my **Excel Data Analytics Portfolio**.
 
-It contains hands-on Excel projects covering real-world business scenarios, from raw data preparation and transformation to analytical reporting and interactive dashboard development.
+This repository showcases practical projects demonstrating how Microsoft Excel can be used to transform raw datasets into meaningful business insights.
 
-The projects demonstrate how Excel can be used to organize complex datasets, identify business trends, monitor performance, and generate meaningful insights.
+The projects focus on data preparation, analytical techniques, KPI development, interactive reporting, and business intelligence.
 
-My goal is to develop practical analytical solutions that combine data processing, business analysis, and effective data visualization.
+My objective is to build analytical solutions that support data-driven decision-making through Excel.
 
 ---
 
-## 📂 Projects & Case Studies
+## 📂 Projects & Workbooks
+
+A collection of practical Excel projects covering different business scenarios.
 
 <table>
 <thead>
 <tr>
 <th>Project</th>
-<th>Technologies</th>
-<th>Key Highlights</th>
+<th>Tools & Techniques</th>
+<th>Business Focus</th>
+<th>Workbook</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td>
-<b>👥 HR Compensation & Salary Analysis</b><br>
-<a href="./HR/">Explore Project →</a>
-</td>
-<td>
-Microsoft Excel<br>
-Pivot Tables<br>
-Power Query<br>
-Excel Charts
-</td>
-<td>
-<ul>
-<li>HR compensation and salary analysis.</li>
-<li>Analyzing salary distribution across departments.</li>
-<li>Comparing compensation by job roles and education levels.</li>
-<li>Developing KPI dashboards and analytical reports.</li>
-</ul>
-</td>
+<td><b>📊 Project 01</b><br>HR & Salary Analysis</td>
+<td>Excel<br>Pivot Tables<br>Power Query</td>
+<td>HR Analytics & Compensation Insights</td>
+<td>Coming Soon</td>
+</tr>
+
+<tr>
+<td><b>📈 Project 02</b><br>Business KPI Dashboard</td>
+<td>Excel<br>Charts<br>Pivot Tables</td>
+<td>Performance Monitoring & Reporting</td>
+<td>Coming Soon</td>
+</tr>
+
+<tr>
+<td><b>🔄 Project 03</b><br>Data Cleaning & ETL</td>
+<td>Power Query<br>Excel<br>Data Transformation</td>
+<td>Data Preparation & Automation</td>
+<td>Coming Soon</td>
 </tr>
 
 </tbody>
 </table>
 
-*More Excel projects, dashboards, and business case studies will be added as the portfolio grows.*
+*More projects and analytical case studies will be added as the portfolio grows.*
 
 ---
 
 ## 🛠️ Tools & Technologies I Work With
 
-### 💻 Spreadsheet & Data Management
+### 📗 Spreadsheet & Data Analysis
 
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Excel_Formulas-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Excel_Functions-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Pivot_Tables-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Power_Pivot-217346?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
 </p>
 
-### 🔄 Data Cleaning & Transformation
+### 🔄 Data Preparation & Transformation
 
 <p>
 <img src="https://img.shields.io/badge/Power_Query-0F6B3E?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Cleaning-388E3C?style=for-the-badge&logo=databricks&logoColor=white">
-<img src="https://img.shields.io/badge/Data_Transformation-2E7D32?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
-<img src="https://img.shields.io/badge/ETL_Workflows-1D6F42?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/ETL_Workflows-2E7D32?style=for-the-badge&logo=apacheairflow&logoColor=white">
 </p>
 
-### 🗄️ Data Modeling & Analysis
-
-<p>
-<img src="https://img.shields.io/badge/Pivot_Tables-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoftpowerbi&logoColor=white">
-<img src="https://img.shields.io/badge/Data_Modeling-2E7D32?style=for-the-badge&logo=databricks&logoColor=white">
-</p>
-
-### 📊 Business Intelligence & Visualization
+### 📊 Reporting & Visualization
 
 <p>
 <img src="https://img.shields.io/badge/Excel_Dashboards-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 <img src="https://img.shields.io/badge/KPI_Reporting-1D6F42?style=for-the-badge&logo=googleanalytics&logoColor=white">
 <img src="https://img.shields.io/badge/Data_Visualization-107C41?style=for-the-badge&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Business_Reporting-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </p>
 
 ---
 
-## 📚 Key Learning Areas
+## 📚 Technical Skills
 
-| Area | Practical Skills |
+| Category | Skills & Techniques |
 |---|---|
-| Data Cleaning | Removing Duplicates, Handling Missing Values, Data Standardization |
-| Data Transformation | Power Query, ETL Workflows, Data Preparation |
-| Excel Analysis | Excel Functions, Conditional Analysis, Logical Functions |
-| Data Aggregation | Pivot Tables, Grouping, Summarization |
-| Data Modeling | Power Pivot, Data Relationships, Data Models |
-| Business Intelligence | KPI Development, Performance Monitoring |
-| Data Visualization | Charts, Interactive Dashboards, Visual Reporting |
-| Business Analysis | HR Analytics, Salary Analysis, Business Insights |
+| Data Cleaning | Removing Duplicates, Handling Missing Values, Standardization |
+| Data Transformation | Power Query, ETL Workflows |
+| Data Analysis | Excel Functions, Conditional Analysis |
+| Data Aggregation | Pivot Tables, Power Pivot |
+| Data Modeling | Data Relationships, Analytical Models |
+| Business Intelligence | KPI Development, Performance Analysis |
+| Data Visualization | Charts, Interactive Dashboards |
+| Reporting | Business Reports & Analytical Insights |
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/A7med-analytics/Excel-Data-Analytics.git
-
-cd Excel-Data-Analytics
-```
-
-### 2. Open the Project
-
-Navigate to the project folder and open the Excel workbook using Microsoft Excel.
-
-### 3. Explore the Analysis
-
-Review the worksheets, formulas, Pivot Tables, data models, and dashboards.
-
-### 4. Interact with the Dashboard
-
-Use available filters, slicers, and interactive elements to explore the data and discover business insights.
-
----
-
-## 📁 Repository Structure
+## 🚀 Repository Structure
 
 ```text
 Excel-Data-Analytics/
 │
-├── HR/
-│   └── Excel Project Files
+├── HR-Salary-Analysis/
+│
+├── Excel-Dashboards/
+│
+├── Power-Query-Projects/
 │
 └── README.md
 ```
 
-*The repository structure will expand as additional projects and workbooks are added.*
+*The folder structure will evolve as new projects are added.*
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 What You'll Find Here
 
-- Apply practical Excel techniques to real-world datasets.
-- Build structured and reusable data preparation workflows.
-- Develop analytical reports and interactive dashboards.
-- Translate business data into meaningful KPIs.
-- Improve business understanding through data-driven analysis.
+- Practical business analysis using Excel.
+- Interactive dashboards and KPI reporting.
+- Data cleaning and transformation workflows.
+- HR and compensation analytics.
+- Business-focused analytical solutions.
 
 ---
 
@@ -190,7 +161,7 @@ Excel-Data-Analytics/
 
 ### Ahmed Alaa
 
-**Data Analyst | Business Intelligence Specialist**
+**Data Analyst | Business Intelligence Enthusiast**
 
 Computer Science & Artificial Intelligence Student  
 Zagazig National University | Class of 2029
